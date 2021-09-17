@@ -1,1 +1,7 @@
-
+Dear Reader,
+This is my attempt to scrape job application data from a website called "Craig's List". 
+I have done by using 3 python libraries:
+     1. BeautifulSoup
+     2. Requests
+     3. Pandas
+I've then recorded 100 job application data into a .CSV file the webdata scraped which is also uploaded in this repository.
